@@ -1,1 +1,34 @@
 /* css styles */
+#about-me p,
+.research-interests p,
+.research-interests li,
+#education p {
+  font-size: 1.0rem;
+}
+
+footer {
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+.cv-section {
+  max-width: 800px;
+  margin: auto;
+  line-height: 1.6;
+  font-family: sans-serif;
+}
+.cv-section h2, .cv-section h3 {
+  margin-top: 2rem;
+}
+.cv-section ul {
+  padding-left: 1.2rem;
+}
+.cv-section p {
+  margin: 0.8rem 0;
+}
+.cv-name {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}

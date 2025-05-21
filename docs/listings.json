@@ -9,7 +9,11 @@
   },
   {
     "listing": "/projects.html",
-    "items": []
+    "items": [
+      "/posts/event-title/index.html",
+      "/posts/news-title/index.html",
+      "/posts/paper-title/index.html"
+    ]
   },
   {
     "listing": "/index.html",
@@ -22,5 +26,25 @@
   {
     "listing": "/people.html",
     "items": []
+  },
+  {
+    "listing": "/About.html",
+    "items": []
+  },
+  {
+    "listing": "/CV.html",
+    "items": [
+      "/posts/event-title/index.html",
+      "/posts/news-title/index.html",
+      "/posts/paper-title/index.html"
+    ]
+  },
+  {
+    "listing": "/News.html",
+    "items": [
+      "/posts/event-title/index.html",
+      "/posts/news-title/index.html",
+      "/posts/paper-title/index.html"
+    ]
   }
 ]

@@ -1,11 +1,12 @@
 ---
-title: "Teaching"
-subtitle: "I teach."
+title: "Photography"
 title-block-banner: false
 ---
 
+I am a keen amateur photographer, and I love using my camera to document and illustrate my research.
+Here are some pictures taken during my recent work.
 
-## Class 1
+## Lower Anton Restoration Project
 
 ::: {.grid}
 
@@ -25,7 +26,7 @@ Class 1 introduction.
 :::
 
 
-## Class 2
+## 
 
 ::: {.grid}
 
@@ -45,7 +46,7 @@ Class 2 introduction.
 :::
 
 
-## Class 3
+## Exe Estuary Marine Plastics Study
 
 ::: {.grid}
 

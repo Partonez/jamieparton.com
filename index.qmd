@@ -1,7 +1,14 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/profiles/profile1.JPG"
+title: |
+  Jamie Parton, BSc<br>
+   <small style="font-weight:normal; font-size:0.7em;">
+    <a target="_blank" style="color:inherit; text-decoration:none;">PhD Researcher</a><br>
+  <small style="font-weight:normal; font-size:1.0rem;">
+    <a href="https://www.southampton.ac.uk" target="_blank" style="color:inherit; text-decoration:none;">University of Southampton</a><br>
+    <a href="https://www.feps.soton.ac.uk" target="_blank" style="color:inherit; text-decoration:none;">Faculty of Engineering and Physical Sciences</a><br>
+    <a href="https://www.southampton.ac.uk/research/institutes-centres/international-centre-for-ecohydraulics-research" target="_blank" style="color:inherit; text-decoration:none;">International Centre for Ecohydraulics Research</a>
+  </small>
+image: "files/profiles/profile.JPG"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -12,87 +19,49 @@ about:
   template: trestles
   image-width: 70%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:jlp2g21@soton.ac.uk   
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/jamieparton/
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/my-orcid?orcid=0009-0002-0624-6717
       target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
+    - text: "{{< ai researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Jamie-Parton?ev=hdr_xprf
       target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=0CdvDG8AAAAJ&hl=en
       target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
-
-listing:
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
+    - text: "{{< ai clarivate >}} Web of Science"
+      href: https://www.webofscience.com/wos/author/record/NGQ-8378-2025  
+      target: _blank
 ---
+About Me
+---
+I am a PhD researcher at the University of Southampton's International Centre for Ecohydraulics Research. 
+I have a deep interest in how we can restore degraded habitats and their ecosystems, and make them more resilient to future shocks, particularly climate change. <br><br>
+My current research is based on monitoring chalk stream restoration - specifically, the Lower Anton Restoration Project. 
+I'm seeking to expand river restoration monitoring to also consider the lateral, vertical, and temporal dimensions in more depth. 
+My work spans from the edge of the floodplain to the riverbed, from the groundwater to the tree canopy, and from macroinvertebrates to macrophytes.
+ <br><br>
 
-:::{#hero-heading}
+Post-PhD, I aim to become a postdoctoral researcher. I'm open to conducting a broad range of research, from continuing my work on freshwater ecosystems to researching terrestrial and marine restoration projects. 
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+::: {.research-interests}
+## Research Interests
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
-
-1. Star this repository so you can easily come back to the template  
-1. Folk this tempate and rename it to `yourgithubusername.github.io`  
-1. Update and edit `_quarto.yml` file for website setup  
-1. Update and add contents to `/posts`, `teaching.qmd`, `projects.yml`, and `people.qmd` and `/people` as needed.
-1. [Render and preview](https://quarto.org/docs/websites/) your website and [publish](https://quarto.org/docs/publishing/github-pages.html) it to your GitHub.
-1. Polish and fix any issues  
-1. Enjoy your website!
-
-## Experience
-
-- Researcher, Univerisity
+- Ecosystem restoration 
+- Rewilding and nature recovery
+- Climate change resilience 
+- Pollution mitigation
+- Interdisciplinary research
+:::
 
 ## Education
 
-- PhD, Univerisity
+- PhD in Engineering and the Environment (2024-Present)
 
-:::
-
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
-
-:::{#recent-posts}
-:::
-
-<p align="right">[All Posts »](/posts.qmd)</p>
+- BSc in Geography (2021-2024)

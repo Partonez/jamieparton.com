@@ -9,19 +9,19 @@ website:
   navbar:
     background: light
 
-    left:
+    # left:
 #      - text: Home
 #        href: index.qmd
-      - text: Projects
-        href: "#"
-      - text: Publications
-        href: "#"                        
-      - text: Photography
-        href: "#"            
-      - text: News
-        href: "#"
-      - text: "CV"
-        href: "#"
+      # - text: Projects
+      #  href: "#"
+      # - text: Publications
+      #  href: "#"                        
+      # - text: Photography
+      #  href: "#"            
+      # - text: News
+      #  href: "#"
+      # - text: "CV"
+      #qq  href: "#"
 
   page-navigation: false
   

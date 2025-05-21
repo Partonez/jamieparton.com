@@ -41,14 +41,13 @@ about:
 ---
 About Me
 ---
-I am a PhD researcher at the University of Southampton's International Centre for Ecohydraulics Research. 
+I'm a PhD researcher at the University of Southampton's International Centre for Ecohydraulics Research. 
 I have a deep interest in how we can restore degraded habitats and their ecosystems, and make them more resilient to future shocks, particularly climate change. <br><br>
-My current research is based on monitoring chalk stream restoration - specifically, the Lower Anton Restoration Project. 
+My current research focuses on chalk stream restoration monitoring - specifically of the Lower Anton Restoration Project. 
 I'm seeking to expand river restoration monitoring to also consider the lateral, vertical, and temporal dimensions in more depth. 
-My work spans from the edge of the floodplain to the riverbed, from the groundwater to the tree canopy, and from macroinvertebrates to macrophytes.
+My work spans the entire river-floodplain system, from the edge of the floodplain to the riverbed, from the groundwater to the tree canopy, and from macroinvertebrates to macrophytes.
  <br><br>
-
-Post-PhD, I aim to become a postdoctoral researcher. I'm open to conducting a broad range of research, from continuing my work on freshwater ecosystems to researching terrestrial and marine restoration projects. 
+Post-PhD, I aim to continue my career as a researcher. I'm open to a wide range of research topics, whether focussing on freshwater, terrestrial, or marine ecosystems. 
 
 ::: {.research-interests}
 ## Research Interests

@@ -5,26 +5,7 @@ project:
 
 website:
   title: "Jamie Parton"
-
-  navbar:
-    background: light
-
-    left:
-#      - text: Home
-#        href: index.qmd
-      - text: Projects
-        href: "#"
-      - text: Publications
-        href: "#"                        
-      - text: Photography
-        href: "#"            
-      - text: News
-        href: "#"
-      - text: "CV"
-        href: "#"
-
-  page-navigation: false
-  
+    
   page-footer: 
     left: "© Jamie Parton 2025" 
     right:  

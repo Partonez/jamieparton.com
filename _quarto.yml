@@ -5,7 +5,6 @@ project:
 
 website:
   title: "Jamie Parton"
-
   navbar:
     background: light
 
@@ -24,7 +23,7 @@ website:
       #qq  href: "#"
 
   page-navigation: false
-  
+
   page-footer: 
     left: "© Jamie Parton 2025" 
     right:  
@@ -77,5 +76,7 @@ format:
     link-external-newwindow: true
     email-obfuscation: javascript
     link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
-    include-in-header: "files/includes/_academic.qmd"
+    include-in-header: 
+    - "files/includes/_academic.qmd"
+    - google-analytics.html
 

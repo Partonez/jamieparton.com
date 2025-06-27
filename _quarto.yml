@@ -1,10 +1,10 @@
-favicon: null
+favicon: favicon.ico
 project:
   type: website
   output-dir: docs
 
 website:
-  title: "Jamie Parton"
+  title: "Jamie Parton | PhD Researcher in River Restoration"
   navbar:
     background: light
 

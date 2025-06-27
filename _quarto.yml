@@ -8,7 +8,7 @@ website:
   navbar:
     background: light
 
-    # left:
+    left:
 #      - text: Home
 #        href: index.qmd
       # - text: Projects
@@ -53,7 +53,9 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://jamieparton.com"
+  generate:
+  - sitemap
   
   google-analytics:
     tracking-id: ""  
